@@ -21,3 +21,4 @@
 13. [Repeating children](https://twitter.com/SShuaiqi/status/1597093945925779456)
 14. [Pseudo slots](https://youtu.be/CGWbit0BDQM)
 15. [Nested elements and instance swap](https://medium.com/user-experience-design-1/make-your-figma-components-work-harder-6d7e0baf96e8)
+16. [Structure and clarity](https://www.buttonconf.com/blog/how-to-bring-structure-and-clarity-to-design-system-components)
