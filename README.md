@@ -3,6 +3,8 @@ Design components need to be scalable for various use cases, both present and fu
 
 We want to prevent [component detaching](https://help.figma.com/hc/en-us/articles/360038665754-Detach-an-instance-from-the-component). This can be achieved by better organizing nested elements, which helps designers understand component structure, and enhances organization while optimizing and saving Figma file memory. This is achieved through better structuring, organizing, and optimizing complex design components by applying the following applicable strategies.
 
+> Note: We plan to list all strategies here, regardless of whether they are currently effective or not.
+
 ### Design Strategies for Complex Components in Figma
 1. [Concept of base components](https://medium.com/timeless/concept-of-base-components-1215ac71e88c) `Not recommended`
 2. [Comparing base components, variants, and slot components](https://www.figma.com/community/file/1059969965206286524)
