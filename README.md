@@ -1,4 +1,9 @@
-# Design Strategies for Complex Components in Figma
+# Figma Design Strategies
+Design components need to be scalable for various use cases, both present and future. Most importantly, they need to be usable by UI library consumers. A good indicator of component usage is the frequency of broken instances. When a designer breaks an instance, the component likely didn't meet their needs. A pattern of broken instances indicates a need for component improvement. Broken instances disconnect components from the master, losing critical properties such as interactive states, responsive variants, theming, language, as well as not receive component updates.
+
+We want to prevent [component detaching](https://help.figma.com/hc/en-us/articles/360038665754-Detach-an-instance-from-the-component). This can be achieved by better organizing nested elements, which helps designers understand component structure, and enhances organization while optimizing and saving Figma file memory. This is achieved through better structuring, organizing, and optimizing complex design components by applying the following applicable strategies.
+
+### Design Strategies for Complex Components in Figma
 1. [Concept of base components](https://medium.com/timeless/concept-of-base-components-1215ac71e88c) `Not recommended`
 2. [Comparing base components, variants, and slot components](https://www.figma.com/community/file/1059969965206286524)
 3. [Base components best practices](https://www.figma.com/community/file/1014940662898686749) `Not recommended`
